@@ -14,7 +14,7 @@ $(document).ready(function() {
 		var toLoad = $(this).attr('href')+' #toload';
 		$('#toload').fadeTo('fast',0.00001,loadContent);
 		$('#load').remove();
-		$('#wrapper').append('<span id="load">LOADING...</span>');
+		$('#wrapper').append('<span id="load">LADDAR...</span>');
 		$('#load').fadeIn('fast');
 		window.location.hash = $(this).attr('href').substr(0,$(this).attr('href').length-5);
 		function loadContent() {

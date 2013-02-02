@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: davidholmlund
 disqus_show_comment_count: false
 
 # Google Analytics
@@ -100,3 +100,9 @@ facebook_like: true
 
 # Facebook user
 facebook_user: davidholmlund
+
+# Skype user
+#skype_user: david.holmlund
+
+# Linkedin user
+linkedin_user: davidholmlund
