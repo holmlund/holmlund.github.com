@@ -8,7 +8,7 @@ body{
     font-family: 'Amethysta', serif;
 	font-weight: 300;
 	font-size: 18px;
-	/*background: url('/images/retina_dust.png');*/ 
+	background: url('/images/retina_dust.png');
 	color: #444;
 	colori: $color-gray01;
 	@media screen and (max-width: 1040px){
@@ -32,7 +32,7 @@ h1{
 	font-size: 1.8em;
 }
 h2{
-    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Arvo', sans-serif;
 	font-size: 1.5em;
 }
 h3{

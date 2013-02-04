@@ -13,4 +13,3 @@ Förutom att lyssna på intressanta föreläsningar så blev det givetvis också
 
 {% img left https://lh4.googleusercontent.com/-_uAxk3z_V-w/Tgx3Rrnae0E/AAAAAAAAC8g/j36frypIwKw/s640-c/ScrapbookPhotos.jpg 150 250 %} {% img left https://lh4.googleusercontent.com/-_uAxk3z_V-w/Tgx3Rrnae0E/AAAAAAAAC8g/j36frypIwKw/s640-c/ScrapbookPhotos.jpg 150 250 %} {% img left https://lh4.googleusercontent.com/-_uAxk3z_V-w/Tgx3Rrnae0E/AAAAAAAAC8g/j36frypIwKw/s640-c/ScrapbookPhotos.jpg 150 250 %} {% img left https://lh4.googleusercontent.com/-_uAxk3z_V-w/Tgx3Rrnae0E/AAAAAAAAC8g/j36frypIwKw/s640-c/ScrapbookPhotos.jpg 150 250 %}
 
-{% picasa_album https://picasaweb.google.com/116398344596709930545/ScrapbookPhotos?authuser=0&feat=directlink %}

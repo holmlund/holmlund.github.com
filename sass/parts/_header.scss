@@ -13,9 +13,10 @@
 		}
 	}
 	h1{
-        font-family: 'Slackey', cursive;
+        font-family: 'yesteryear', cursive;
 		font-weight: 300;
-		font-size: 52px;
+		font-size: 67px;
+        line-height:1em;
 		@media screen and (max-width: 1040px){
 			float: none;
 		}
@@ -28,13 +29,15 @@
     /*background: #444;*/
     border-top: 10px solid #FF6600;
     border-bottom: 10px solid #cccc00;
-    padding-top: 10px;
+    padding-top: 15px;
     padding-bottom: 10px;
+
     display: table;
     color: #444;
     margin: 0 auto;
+    margin-top: 8px;
     /*border-radius: 5px;*/
-    font-weight: bold;
+    /*font-weight: bold;*/
     -webkit-mask-image: -webkit-linear-gradient(#000, rgba(0,0,0,.9));
     
     -webkit-backface-visibility: hidden;
@@ -69,7 +72,7 @@
     display: none;
     position: absolute;
     right: 50%;
-    top: 50%;
+    top: 70%;
     background: url('/images/loading.gif');
     width: 50px;
     height: 50px;
@@ -91,20 +94,21 @@
 #social-links {
   li {
     display:inline-block;
-    @include square(35px, 35px);
-    margin-top: 20px;
+    /*@include square(35px, 35px);*/
+    /*margin-top: 20px;
     margin-right: 9px;
     background-color: #ddd;
-    text-align: center;
-    line-height: 35px;
+    text-align: center;*/
+    /*line-height: 35px;*/
     @include transition(background-color 1s ease-in-out);
-    &:hover {
-      background-color: #555;
+    /*&:hover {
+    background-color: #555;*/
+
     }
   }
-  a {
+  #social-links a {
     display: inline-block;
-    position: relative;
+    position: relative;/*
     @include square(100%);
     svg {
       position: absolute;
@@ -123,12 +127,46 @@
     }
     .twitter {
       top: 2px;
-      left: 3px;
-    }
+      left: 3px;*/
+     @include border-radius(50%);
+            @include inline-block;
+            text-indent: -9999px;
+            margin-right: 15px;
+            opacity: 0.5;
+            @include square(28px);
+            @include transition(0.3s);
+            &:hover{
+                opacity: 1;
+    } 
   }
-}
 
-a.facebook{background:url('/images/social/Facebook.png') center no-repeat;}
+
+a.facebook{background:url('/images/social/facebook.png') center no-repeat #3B5998;border: 1px solid #3B5998;}
+a.facebook:hover{border: 1px solid darken(#3B5998, 10%);}
+
+a.github{background:url('/images/social/github.png') center no-repeat rgb(175,182,202);border: 1px solid rgb(175,182,202);}
+a.github:hover{border: 1px solid darken(rgb(175,182,202), 10%);}
+
+a.twitter{background:url('/images/social/twitter.png') center no-repeat #55CFF8;border: 1px solid #55CFF8;}
+a.twitter:hover{border: 1px solid darken(#55CFF8, 10%);}
+
+a.googleplus{background:url('/images/social/google.png') center no-repeat #C83D20;border: 1px solid #C83D20;}
+a.googleplus:hover{border: 1px solid darken(#C83D20, 10%);}
+
+a.skype{background:url('/images/social/Skype.png') center no-repeat;}
+a.skype:hover{background:url('/images/social/SkypeH.png') center no-repeat;}
+
+a.linkedin{background:url('/images/social/LinkedIn.png') center no-repeat #005A87;border: 1px solid #005A87;}
+a.linkedin:hover{border:1px solid darken(#005A87, 10%);}
+
+a.youtube{background:url('/images/social/Youtube.png') center no-repeat;}
+a.youtube:hover{background:url('/images/social/YoutubeH.png') center no-repeat;}
+
+a.lastfm{background:url('/images/social/LastFM.png') center no-repeat;}
+a.lastfm:hover{background:url('/images/social/LastFMH.png') center no-repeat;}
+
+
+/*a.facebook{background:url('/images/social/Facebook.png') center no-repeat;}
 a.facebook:hover{background:url('/images/social/FacebookH.png') center no-repeat;}
 
 a.github{background:url('/images/social/Github.png') center no-repeat;}
@@ -151,7 +189,7 @@ a.youtube:hover{background:url('/images/social/YoutubeH.png') center no-repeat;}
 
 a.lastfm{background:url('/images/social/LastFM.png') center no-repeat;}
 a.lastfm:hover{background:url('/images/social/LastFMH.png') center no-repeat;}
-
+*/
 
 /* search bar */
 #search {
@@ -242,7 +280,7 @@ ul#nav li a {
     color: #444;
     font-weight: normal;
     text-decoration: none;
-    font-family: "Fjalla One", Arial, Helvetica, sans-serif;
+    font-family: "Arvo", Arial, Helvetica, sans-serif;
     text-transform: uppercase;
     font-size: 20px;
     font-style: normal;
@@ -253,11 +291,18 @@ ul#nav li a:hover {
     color: #ff6600;
     font-style: normal;
     font-weight: normal;
+    height:10px;
     /*background-image: url('/images/hover.png');
     background-repeat: no-repeat;
     background-position: center top;*/
+    /*background-color:#444;
+    border-radius:20px;*/
     font-size:24px;
     overflow: visible;
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
 }
 ul#nav li a:active {
     position: relative;
