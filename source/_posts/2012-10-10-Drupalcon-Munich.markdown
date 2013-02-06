@@ -4,6 +4,9 @@ title: "Drupalcon Munich 2012"
 date: 2012-10-10 12:22
 comments: true
 categories: Privat, Drupal
+description: "Den 20-24 augusti var det dags för den årliga drupalkonferensen Drupalcon, denna gång i öltäta München."
+cover:
+published: true
 ---
 Den 20-24 augusti var det dags för den årliga drupalkonferensen Drupalcon, denna gång i öltäta München.
 
