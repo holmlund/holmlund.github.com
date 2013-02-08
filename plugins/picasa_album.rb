@@ -13,12 +13,12 @@ module Jekyll
       @config['thumbnail_size']  ||= 0;    # 0=small, 1=medium, 2=large
       ##
       @config['gallery_tag']    ||= 'div';
-      @config['gallery_class']  ||= 'pie-gallery alignGalleryLeft';
+      @config['gallery_class']  ||= 'pie-gallery alignGalleryCenter';
       ##
       @config['title_tag']      ||= 'h2';
       ##
       @config['a_rel']          ||= /[0-9]+/.match(rss_url)
-      @config['a_class']        ||= '';
+      @config['a_class']        ||= 'fancybox';
       @config['a_target']        ||= '';
       ##
       @config['img_rel']        ||= '';
@@ -31,7 +31,7 @@ module Jekyll
       album.photos.each do |photo|
         html += "<div class=\"pie-item\" style=\"margin:10px 10px 10px 10px;\">"
         html += "<p class=\"pie-img-wrapper\">"
-        html += "<a href=\"#{photo.url}?imgmax=640\" rel=\"lightbox-#{@config['a_rel']}\">"
+        html += "<a class=\"fancybox\" href=\"#{photo.url}?imgmax=640\" rel=\"fancybox-#{@config['a_rel']}\">"
         html += "<img src=\"#{photo.thumbnail160}\" alt=\"#{photo.title}\" width=\"160\" height=\"160\" class=\"pie-img\"/>"
         html += "</a>"
         html += "</div>"

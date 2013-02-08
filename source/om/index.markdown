@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "om"
+title: "om David Holmlund"
 date: 2013-01-31 14:35
 comments: false
 sharing: true
