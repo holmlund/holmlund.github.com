@@ -7,6 +7,7 @@ categories: Privat, Drupal
 description: "Den 20-24 augusti var det dags för den årliga drupalkonferensen Drupalcon, denna gång i öltäta München."
 cover: http://picasaweb.google.com/lh/photo/u7KqFJGRAlo9SQi2uzStUgCOUYRXi2tfHemuv5P6KZg?feat=directlink
 published: true
+alias: /blogg/paneldebatt-drupalcamp-stockholm
 ---
 Den 20-24 augusti var det dags för den årliga drupalkonferensen Drupalcon, denna gång i öltäta München.
 

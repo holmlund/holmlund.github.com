@@ -13,9 +13,8 @@ post_format:
 tags:
 - Privat
 - Stormfors
+alias: /material/inleder-samarbete-med-stormfors
 ---
-
-
 
 Nu är det klart att jag kommer inleda ett samarbete med webbyrån Stormfors, där jag kommer att fungera som konsult.
 

@@ -11,6 +11,7 @@ post_format:
 - Notering
 tags:
 - Google
+alias: /blogg/vill-du-ha-en-google-wave-invite
 ---
 
 Istället för att göra ett taffligt försök att i text förklara vad Google Wave handlar om så tänkte jag istället länka till två videoklipp.
@@ -18,7 +19,7 @@ Istället för att göra ett taffligt försök att i text förklara vad Google W
 Det första klippet är på dryga 2 minuter och det andra på åtta, jag rekommenderar att du tar dig tid till att se båda.
 
 Än så länge befinner sig Google Wave i en begränsad testversion och är endast öppet för inbjudningar. Jag sitter dock på ett antal Google Wave invites som jag tänkte dela ut till intresserade läsare. Skriv en kommentar nedan om dina tankar kring Google Wave så kommer jag skicka ut invites så långt som lagret räcker. Först till kvarn gäller och glöm inte att ta med er emailadress (ni kan också maila den till mig om ni inte vill lägga ut den i kommentaren).
-
+<!-- more -->
 Korta, tramsiga och meningslösa kommentarer kommer att diskvalificeras.
 
 Se också [Stormfors](http://www.stormfors.se) där Fredric skrivit intressant om [kostnadsbesparingar med Google Wave](http://blog.stormfors.se/2009/10/22/kostnadsbesparingar-med-google-wave).

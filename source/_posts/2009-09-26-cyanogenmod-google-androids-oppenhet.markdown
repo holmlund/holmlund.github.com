@@ -14,6 +14,7 @@ post_format:
 tags:
 - Android
 - Google
+alias: /blogg/cyanogenmod-google-androids-oppenhet
 ---
 
 Ett cease & desist till skaparen av den populära androidmodifikationen CyanogenMod har skapat rabalder i communityt.

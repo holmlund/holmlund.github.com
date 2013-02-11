@@ -12,6 +12,7 @@ post_format:
 tags:
 - Drupal
 - Responsiv
+alias: /blogg/responsiv-design-i-drupal
 ---
 
 

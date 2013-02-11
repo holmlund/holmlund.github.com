@@ -7,6 +7,7 @@ description: "Helgen den 11-12 mars så hade jag förmånen att få föreläsa o
 categories: Android, föreläsning
 cover: http://picasaweb.google.com/lh/photo/uhCT0kwJfN8Mso4DEEvButMTjNZETYmyPJy0liipFm0?feat=directlink
 published: true
+alias: /blogg/fran-inspiration-till-nyskapande
 ---
 Helgen den 11-12 mars så hade jag förmånen att få föreläsa om android på EIS by Semcons interna konferens – Från inspiration till nyskapande.
 
