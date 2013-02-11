@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: föreläsning | David Holmlund]]></title>
+  <link href="http://holmlund.github.com/kategorier/föreläsning/atom.xml" rel="self"/>
+  <link href="http://holmlund.github.com/"/>
+  <updated>2013-02-11T08:11:36+01:00</updated>
+  <id>http://holmlund.github.com/</id>
+  <author>
+    <name><![CDATA[David Holmlund]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Från inspiration till nyskapande]]></title>
+    <link href="http://holmlund.github.com/2011/04/29/fran-inspiration-till-nyskapande/"/>
+    <updated>2011-04-29T14:43:00+02:00</updated>
+    <id>http://holmlund.github.com/2011/04/29/fran-inspiration-till-nyskapande</id>
+    <content type="html"><![CDATA[<p>Helgen den 11-12 mars så hade jag förmånen att få föreläsa om android på EIS by Semcons interna konferens – Från inspiration till nyskapande.</p>
+
+<p>Tillsammans med rutinerade föreläsare som Håkan Lans, Christer Bengtsson och Wille Crafoord så hade jag mycket att leva upp till och det skulle visa sig bli två riktigt intressanta dagar. Håkan Lans höll en föredragsdiskussion om sin karriär och stannade sedan långt in på kvällen för att diskutera sina erfarenheter med nyfikna ingenjörer. Christer Bengtsson berättade om Swedsoft som är ett initiativ för att stärka svensk konkurrenskraft inom mjukvara och Wille Crafoord avslutade med en inspirerande föreäsning samt musik till kaffet.</p>
+
+<p>Förutom själva presentationen så höll jag i ett kreativt grupparbete där fokus låg på att illustrera hur inbäddade system kan fungera i framtiden.</p>
+
+<p>Ett stort tack till Mikael Hagström &amp; Stig Ursing på <a href="http://eis.semcon.com/">EIS by Semcon</a> för ett gott samarbete och en lyckad konferens.</p>
+
+<p>En länkt till presentationen kan ni hitta <a href="http://prezi.com/-qcrdedidyki/foredrag-utkast/">här.</a></p>
+
+<!-- more -->
+
+
+<p><div class="pie-gallery alignGalleryCenter">
+<div class="pie-item" style="margin:10px 10px 10px 10px;"><p class="pie-img-wrapper"><a class="fancybox" href="http://lh5.ggpht.com/-pXpTbJwgQyE/URgV11lNjvI/AAAAAAAAGEQ/XnkXAnfr17I/img_20110312_130515.jpg?imgmax=640" rel="fancybox-116398344596709930545"><img src="http://lh5.ggpht.com/-pXpTbJwgQyE/URgV11lNjvI/AAAAAAAAGEQ/XnkXAnfr17I/s160-c/img_20110312_130515.jpg" alt="img_20110312_130515.jpg" width="160" height="160" class="pie-img"/></a></div><div class="pie-item" style="margin:10px 10px 10px 10px;"><p class="pie-img-wrapper"><a class="fancybox" href="http://lh4.ggpht.com/-IZBXIgtBpRU/URgV2MRjkuI/AAAAAAAAGEY/yq9yW3GFKhU/p1090946.jpg?imgmax=640" rel="fancybox-116398344596709930545"><img src="http://lh4.ggpht.com/-IZBXIgtBpRU/URgV2MRjkuI/AAAAAAAAGEY/yq9yW3GFKhU/s160-c/p1090946.jpg" alt="p1090946.jpg" width="160" height="160" class="pie-img"/></a></div><div class="pie-item" style="margin:10px 10px 10px 10px;"><p class="pie-img-wrapper"><a class="fancybox" href="http://lh5.ggpht.com/-qeh5CT9ehF8/URgV2Qe_OAI/AAAAAAAAGEg/SwJS_mnZWbo/img_20110311_155002.jpg?imgmax=640" rel="fancybox-116398344596709930545"><img src="http://lh5.ggpht.com/-qeh5CT9ehF8/URgV2Qe_OAI/AAAAAAAAGEg/SwJS_mnZWbo/s160-c/img_20110311_155002.jpg" alt="img_20110311_155002.jpg" width="160" height="160" class="pie-img"/></a></div><div class="pie-item" style="margin:10px 10px 10px 10px;"><p class="pie-img-wrapper"><a class="fancybox" href="http://lh6.ggpht.com/-n4VYyAMooMQ/URgV2im_HFI/AAAAAAAAGEo/sQusxadYAto/img_20110312_123809.jpg?imgmax=640" rel="fancybox-116398344596709930545"><img src="http://lh6.ggpht.com/-n4VYyAMooMQ/URgV2im_HFI/AAAAAAAAGEo/sQusxadYAto/s160-c/img_20110312_123809.jpg" alt="img_20110312_123809.jpg" width="160" height="160" class="pie-img"/></a></div><div class="pie-item" style="margin:10px 10px 10px 10px;"><p class="pie-img-wrapper"><a class="fancybox" href="http://lh5.ggpht.com/-8fk_wbAo6WE/URgV2zH9Y3I/AAAAAAAAGEw/OId5Ic7H_-Q/p1090625.jpg?imgmax=640" rel="fancybox-116398344596709930545"><img src="http://lh5.ggpht.com/-8fk_wbAo6WE/URgV2zH9Y3I/AAAAAAAAGEw/OId5Ic7H_-Q/s160-c/p1090625.jpg" alt="p1090625.jpg" width="160" height="160" class="pie-img"/></a></div><div class="pie-item" style="margin:10px 10px 10px 10px;"><p class="pie-img-wrapper"><a class="fancybox" href="http://lh3.ggpht.com/-2kAHqPNCluE/URgV3UWxy_I/AAAAAAAAGE4/eTa5W417Nxw/p1090639.jpg?imgmax=640" rel="fancybox-116398344596709930545"><img src="http://lh3.ggpht.com/-2kAHqPNCluE/URgV3UWxy_I/AAAAAAAAGE4/eTa5W417Nxw/s160-c/p1090639.jpg" alt="p1090639.jpg" width="160" height="160" class="pie-img"/></a></div><div class="pie-item" style="margin:10px 10px 10px 10px;"><p class="pie-img-wrapper"><a class="fancybox" href="http://lh6.ggpht.com/-5MLeoIz59pI/URgV3rI7lvI/AAAAAAAAGFA/j1kr0L9US-8/p1090695.jpg?imgmax=640" rel="fancybox-116398344596709930545"><img src="http://lh6.ggpht.com/-5MLeoIz59pI/URgV3rI7lvI/AAAAAAAAGFA/j1kr0L9US-8/s160-c/p1090695.jpg" alt="p1090695.jpg" width="160" height="160" class="pie-img"/></a></div><div class="pie-item" style="margin:10px 10px 10px 10px;"><p class="pie-img-wrapper"><a class="fancybox" href="http://lh3.ggpht.com/-P6bwn2HuQm8/URgV37c_AXI/AAAAAAAAGFI/L8ao-02we_0/p1090658.jpg?imgmax=640" rel="fancybox-116398344596709930545"><img src="http://lh3.ggpht.com/-P6bwn2HuQm8/URgV37c_AXI/AAAAAAAAGFI/L8ao-02we_0/s160-c/p1090658.jpg" alt="p1090658.jpg" width="160" height="160" class="pie-img"/></a></div><div class="pie-item" style="margin:10px 10px 10px 10px;"><p class="pie-img-wrapper"><a class="fancybox" href="http://lh5.ggpht.com/-nytEFjSa0as/URgV4D2kfFI/AAAAAAAAGFQ/EkEW58_7LZU/p1090806.jpg?imgmax=640" rel="fancybox-116398344596709930545"><img src="http://lh5.ggpht.com/-nytEFjSa0as/URgV4D2kfFI/AAAAAAAAGFQ/EkEW58_7LZU/s160-c/p1090806.jpg" alt="p1090806.jpg" width="160" height="160" class="pie-img"/></a></div></></p>
+]]></content>
+  </entry>
+  
+</feed>

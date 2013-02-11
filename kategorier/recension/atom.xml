@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Recension | David Holmlund]]></title>
+  <link href="http://holmlund.github.com/kategorier/recension/atom.xml" rel="self"/>
+  <link href="http://holmlund.github.com/"/>
+  <updated>2013-02-11T08:11:36+01:00</updated>
+  <id>http://holmlund.github.com/</id>
+  <author>
+    <name><![CDATA[David Holmlund]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Drupal 6 JavaScript and jQuery]]></title>
+    <link href="http://holmlund.github.com/2009/12/01/drupal-6-javascript-and-jquery/"/>
+    <updated>2009-12-01T02:32:00+01:00</updated>
+    <id>http://holmlund.github.com/2009/12/01/drupal-6-javascript-and-jquery</id>
+    <content type="html"><![CDATA[<p>Jag har länge sett fram emot en bok som behandlar Drupal ur ett JavaScript/JQuery-perspektiv och har nu fått möjligheten att skriva en kort recension på Drupal 6 JavaScript and jQuery av Matt Butcher.</p>
+
+<p>Boken öppnar med en beskrivning av Drupals arkitektur samt de där till kopplade språken PHP, SQL, HTML, CSS, XML och JavaScript. Som många andra drupalböcker så går den också kort igenom uppbyggnaden av noder, teman, moduler, användare, block samt olika utvecklingsverktyg som kan vara bra att ha.</p>
+
+<p>I kapitel två börjar det roliga och vi får lära oss hur vi kan arbeta med javascript i Drupal. I kapitel tre så är fokus helt på JQuery-biblioteket och dess olika användningsområden. Boken går sedan igenom drupal.js biblioteket för att sedan ta sig an översättningar och tema-funktioner.</p>
+
+<p>Kapitel sju är helt vigt till AJAX och i kapitel åtta och nio får vi införliva javascript i en modul samt gräva lite djupare i mer avancerade funktioner och integrationer. De sista två projekten i boken är en autocomplete-funktion för sökrutan samt en accordion-meny, både dessa är riktigt intressanta och väl värda att kika på.</p>
+
+<p>Jag kan verkligen varmt rekommendera <a href="http://www.packtpub.com/drupal-6-javascript-and-jquery/mid/241009simemx?utm_source=davidholmlund.se&amp;utm_medium=affiliate&amp;utm_content=blog&amp;utm_campaign=mdb_001188">Drupal 6 JavaScript and jQuery</a> och hoppas att vi inom en snar framtid kommer att få se fler böcker på detta ämne. Du behöver inte vara någon js-guru för att ha behållning av boken men för att få ut så mycket som möjligt så bör du dock vara van vid att arbeta med Drupal samt ha grundläggande kunskaper i programmeringssyntax.</p>
+
+<blockquote><p><strong>Plus:</strong> En riktigt bra introduktion till Javascript och JQuery i en Drupalmiljö.</p>
+
+<p><strong>Minus: </strong>Finns inte så mycket att klaga på annat än att den gärna hade fått vara mer omfattande och dubbelt så tjock.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wired, teknologi & kultur!]]></title>
+    <link href="http://holmlund.github.com/2009/08/04/wired-teknologi-kultur/"/>
+    <updated>2009-08-04T19:18:00+02:00</updated>
+    <id>http://holmlund.github.com/2009/08/04/wired-teknologi-kultur</id>
+    <content type="html"><![CDATA[<p>Bloggar, tweets och RSS-flöden till trots så finns det stunder då jag hellre vill sätta mig ned med en gammal hederlig papperstidning.</p>
+
+<p>Till en av mina absoluta favoriter i det formatet hör den amerikanska tidningen Wired som framför allt behandlar teknologi och dess påverkan på kultur, ekonomi och politik.</p>
+
+<p>Min första kontakt med Wired kom genom artiklar som spreds via olika <a href="http://en.wikipedia.org/wiki/Bulletin_board_system">Bulletin Board Systems (BBS)</a> och <a href="http://en.wikipedia.org/wiki/Fidonet">FidoNet</a>. Det här måste ha varit någon gång precis efter tidningsstarten 1993 och kort innan internet och world wide web skulle sätta sista spiken i kistan på de gamla BBS’erna. Tidningen blev snabbt mytomspunnen och kultförklarad för sin hacker- och cyberpunkframtoning, vilket givetvis hade stor påverkan på mig som ung tonåring. Det skulle dock ta ytterligare några år innan jag för första gången fick läsa en Wired i tidningsform, tidningsutbudet i norrländska småstäder var tyvärr inte alltför utvecklat på tiden som det begav sig.</p>
+
+<p>Idag är jag dock en frekvent läsare av både den amerikanska och den brittiska utgåvan och kan inte annat än rekommendera den för alla som vill ha intelligent och spännande läsning kryddat med skön <a href="http://www.wired.co.uk/wired-magazine/archive/2009/05/start/warren-ellis.aspx">humor</a>.</p>
+
+<p>Personligen läser jag den helst i pappersform, men tidningen går såklart även att hitta online:</p>
+
+<p><a href="http://www.wired.com/wired/">Amerikanska Wired</a> och <a href="http://www.wired.co.uk/wired-magazine/">Brittiska Wired</a></p>
+
+<p>Under respektive toppdomän kan ni även hitta Wireds nyhetssidor, vilka också är värda en titt. Bör också tillägga att jag tycker att den nya brittiska utgåvan håller en något högre klass än den amerikanska, även om de till en viss del överlappar varandra.</p>
+]]></content>
+  </entry>
+  
+</feed>

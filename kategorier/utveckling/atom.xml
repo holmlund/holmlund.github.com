@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Utveckling | David Holmlund]]></title>
+  <link href="http://holmlund.github.com/kategorier/utveckling/atom.xml" rel="self"/>
+  <link href="http://holmlund.github.com/"/>
+  <updated>2013-02-11T08:11:36+01:00</updated>
+  <id>http://holmlund.github.com/</id>
+  <author>
+    <name><![CDATA[David Holmlund]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Responsiv design i Drupal]]></title>
+    <link href="http://holmlund.github.com/2011/11/25/responsiv-design-i-drupal/"/>
+    <updated>2011-11-25T19:58:22+01:00</updated>
+    <id>http://holmlund.github.com/2011/11/25/responsiv-design-i-drupal</id>
+    <content type="html"><![CDATA[<p><code>
+Uppmärksamma läsare har kanske upptäckt att nuvarande installation
+inte är densamma som beskrivs nedan.
+</code></p>
+
+<p>Bloggen är nu uppdaterad till en responsiv design, vilket innebär att den automatiskt anpassar innehållet efter fönsterstorlek. Förutom detta så har jag också lekt runt lite med transitions och animationer i CSS 3.</p>
+
+<p>Ni kan testa detta enklast genom att gå in via en mobil/tablet alternativt justera storleken på webbläsarfönstret om ni sitter vid exempelvis en laptop.</p>
+
+<p>Rent tekniskt så är lösningen byggd på <a href="http://drupal.org">Drupal 7</a> med ett <a href="http://drupal.org/project/panels">panels</a>-anpassat tema baserat på <a href="http://drupal.org/project/adaptivetheme">adaptive themes</a> och diverse custom HTML5, CSS3 &amp; Javascript. <a href="http://www.w3.org/TR/css3-mediaqueries/">Media queries</a> och CSS3 transitions är det som bl. a förändrar menyn vid resize och skapar effekter som det som händer när ni för muspekaren över de sociala ikonerna ovanför sökfönstret.</p>
+
+<p>Bildspelet är baserat på <a href="http://flex.madebymufffin.com/">flexslider</a> som ger stöd för mobila swipes och andra trevligheter, inbäddade videofiler görs responsiva med <a href="http://fitvidsjs.com/">fitvids</a>. Slidern som återfinns på <a href="http://www.davidholmlund.se">förstasidan</a> är lite av ett undantag och fulhack som kom till då jag ville kunna placera text vid sidan av bilder, den fungerar bra i mobilen men kan se lite konstig ut om man leker för mycket med fönsterstorleken fram och tillbaka.</p>
+
+<p>Hör gärna av er i kommenteringsfältet nedan ifall ni har några funderingar eller vill ha kodexempel.</p>
+
+<p>Det bör också tilläggas att hela denna sajt är något av en lekstuga och hopkoket av effekter bör absolut tas med en nypa salt. =)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Drupal 6 JavaScript and jQuery]]></title>
+    <link href="http://holmlund.github.com/2009/12/01/drupal-6-javascript-and-jquery/"/>
+    <updated>2009-12-01T02:32:00+01:00</updated>
+    <id>http://holmlund.github.com/2009/12/01/drupal-6-javascript-and-jquery</id>
+    <content type="html"><![CDATA[<p>Jag har länge sett fram emot en bok som behandlar Drupal ur ett JavaScript/JQuery-perspektiv och har nu fått möjligheten att skriva en kort recension på Drupal 6 JavaScript and jQuery av Matt Butcher.</p>
+
+<p>Boken öppnar med en beskrivning av Drupals arkitektur samt de där till kopplade språken PHP, SQL, HTML, CSS, XML och JavaScript. Som många andra drupalböcker så går den också kort igenom uppbyggnaden av noder, teman, moduler, användare, block samt olika utvecklingsverktyg som kan vara bra att ha.</p>
+
+<p>I kapitel två börjar det roliga och vi får lära oss hur vi kan arbeta med javascript i Drupal. I kapitel tre så är fokus helt på JQuery-biblioteket och dess olika användningsområden. Boken går sedan igenom drupal.js biblioteket för att sedan ta sig an översättningar och tema-funktioner.</p>
+
+<p>Kapitel sju är helt vigt till AJAX och i kapitel åtta och nio får vi införliva javascript i en modul samt gräva lite djupare i mer avancerade funktioner och integrationer. De sista två projekten i boken är en autocomplete-funktion för sökrutan samt en accordion-meny, både dessa är riktigt intressanta och väl värda att kika på.</p>
+
+<p>Jag kan verkligen varmt rekommendera <a href="http://www.packtpub.com/drupal-6-javascript-and-jquery/mid/241009simemx?utm_source=davidholmlund.se&amp;utm_medium=affiliate&amp;utm_content=blog&amp;utm_campaign=mdb_001188">Drupal 6 JavaScript and jQuery</a> och hoppas att vi inom en snar framtid kommer att få se fler böcker på detta ämne. Du behöver inte vara någon js-guru för att ha behållning av boken men för att få ut så mycket som möjligt så bör du dock vara van vid att arbeta med Drupal samt ha grundläggande kunskaper i programmeringssyntax.</p>
+
+<blockquote><p><strong>Plus:</strong> En riktigt bra introduktion till Javascript och JQuery i en Drupalmiljö.</p>
+
+<p><strong>Minus: </strong>Finns inte så mycket att klaga på annat än att den gärna hade fått vara mer omfattande och dubbelt så tjock.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Inleder samarbete med Stormfors]]></title>
+    <link href="http://holmlund.github.com/2009/10/15/inleder-samarbete-med-stormfors/"/>
+    <updated>2009-10-15T21:50:00+02:00</updated>
+    <id>http://holmlund.github.com/2009/10/15/inleder-samarbete-med-stormfors</id>
+    <content type="html"><![CDATA[<p>Nu är det klart att jag kommer inleda ett samarbete med webbyrån Stormfors, där jag kommer att fungera som konsult.</p>
+
+<p><a href="http://www.stormfors.se/">Stormfors</a> är en webbyrå baserad i Stockholm som specialiserar sig på open source CMS, ändamålsenlig design och sociala nätverk.</p>
+
+<p>Vi har mycket gemensamt när det kommer till ideér kring nätets nya möjligheter och jag ser fram emot ett riktigt gott samarbete tillsammans med Fredric, Eric och Petter.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[CyanogenMod, Google & Androids öppenhet?]]></title>
+    <link href="http://holmlund.github.com/2009/09/26/cyanogenmod-google-androids-oppenhet/"/>
+    <updated>2009-09-26T21:16:00+02:00</updated>
+    <id>http://holmlund.github.com/2009/09/26/cyanogenmod-google-androids-oppenhet</id>
+    <content type="html"><![CDATA[<p>Ett cease &amp; desist till skaparen av den populära androidmodifikationen CyanogenMod har skapat rabalder i communityt.</p>
+
+<p>Det har nu gått några dagar sedan Google skickade ett <a href="http://en.wikipedia.org/wiki/Cease_and_desist">cease &amp; desist</a> till utvecklaren av <a href="http://www.cyanogenmod.com/">CyanogenMOD</a>, vilket är en mycket populär ROM för <a href="http://www.android.com/">Android</a> som förutom ett stort antal optimeringar och förbättringar som exempelvis <em>multi touch</em> och <a href="http://ck.kolivas.org/patches/bfs/bfs-faq.txt">BFS</a> var en av de första som byggde på nya <a href="http://developer.android.com/sdk/android-1.6-highlights.html">Android 1.6 Donut</a>.</p>
+
+<p>Att Google reagerar på det här sättet är något som verkligen <a href="http://phandroid.com/2009/09/25/eff-google-screw-android-the-backlash-begins/">chockat och upprört</a> många androidanvändare, inklusive mig själv. Få hade blivit förvånade om det kommit från Apple eller Microsoft, men i det här fallet kom det något oväntat då Google själva talat så varmt för Androids öppenhet och vilka fördelar det innebär gentemot övriga plattformer.</p>
+
+<!-- more -->
+
+
+<p>Dan Morrill från Google har kommenterat det hela på <a href="http://android-developers.blogspot.com/2009/09/note-on-google-apps-for-android.html">Androids utvecklarblogg</a> där han framhäver att även om plattformen till Android är öppen källkod så finns det propetiära och icke öppna komponenter som inte är okej att inkludera i modifierade ROMar. Att göra modifikationer utan Google’s eller andra proprietära komponenter verkar dock vara lättare sagt än gjort:</p>
+
+<blockquote><p>Everyone who is insisting that its just “oh no, don’t distribute gmail”.. I challenge you to try AOSP. It’ll take some time, but grab the source and build it. Without proprietary bins. (No, seriously. Don’t copy a bunch of crap off the old image, don’t include any of the proprietary bins that -you are not allowed to redistribute-.)
+It won’t boot. If you manage to get past that, it won’t make noise. LED doesn’t work. No way to talk to the cell modem (so no cell services, at all.) Good news, the wifi will probably work. But even if you include the (proprietary!) RIL, it won’t make or break calls (oops, setting the initial setup/provisioning flag is “proprietary”.) Seriously, this isn’t a case of “oh, just stop distributing gmail”. This is - as ryebrye said in JBQ’s thread - a case of “AOSP doesn’t work AT ALL without tons of proprietary crap”.</p></blockquote>
+
+<p>… Other problems - you can’t make or break calls (oops, “setup” is proprietary). Calendar has such dependencies on sync that it just flat doesn’t work. (I heard rumours that contacts may be the same way.) The really sick thing is, HTC has already made non-google versions of these apps. But - thanks to the android licensing - they’re closed
+source too..</p>
+
+<p><em>Från <a href="http://groups.google.com/group/android-discuss/browse_thread/thread/b0537bc784852862/274c391f2628c4f1#274c391f2628c4f1">Android-Discuss</a> skrivet av Disconnect</em></p>
+
+<p>Det var till en början ganska tyst från Cyanogen förutom ett antal bittra kommentarer på Twitter om det absurda i situationen samt att CyanogenMod i sin nuvarande form var ett avslutat kapitel. Nu har han dock gått ut och kommenterat händelserna lite mer utförligt i ett inlägg på <a href="http://www.cyanogenmod.com/home/the-current-state">cyanogenmod.com.</a></p>
+
+<blockquote><p>The issue that’s raised is the redistribution of Google’s proprietary applications like Maps, GTalk, Market, and YouTube. These are not part of the open source project and are only part of “Google Experience” devices. They are Google’s intellectual property and I intend to respect that. I will no longer be distributing these applications as part of CyanogenMod. But it’s OK. None of the go-fast stuff that I do involves any of this stuff anyway. We need these applications though, because we all rely so heavily on their functionality. I’d love for Google to hand over the keys to the kingdom and let us all have it for free, but that’s not going to happen. And who can blame them?</p></blockquote>
+
+<p>There are lots of things we can do as end-users and modders, though, without violating anyones rights. Most importantly, we are entitled to back up our software. Since I don’t work with any of these closed source applications directly, what I intend to do is simply ship the next version of CyanogenMod as a “bare bones” ROM. You’ll be able to make calls, MMS, take photos, etc. In order to get our beloved Google sync and applications back, you’ll need to make a backup first. I’m working on an application that will do this for you.</p>
+
+<p>Genom ett sådant kryphål verkar det vara möjligt för användare att använda CyanogenMod och fortfarande dra nytta av Google sync och alla applikationer. Eftersom det rör sig om att göra en backup av saker som redan fanns på din telefon så kan man dock inte som tidigare förlita sig på Google-uppdateringar från Cyanogen utan är helt i händerna på respektive leverantör. Frågan är också hur HTC och andra som har proprietära komponenter ställer sig till modifikationer.</p>
+
+<p>Ett antal personer har därför gått ut med <a href="http://openandroidalliance.com/">Open Android Alliance</a> för att ersätta all proprietär kod och skapa en välfungerande öppen plattform för android.</p>
+
+<p><a href="http://twitter.com/jbqueru">Jean-Baptiste Queru</a> som är androindutvecklare på Google verkar också ha något <a href="http://groups.google.com/group/android-platform/browse_thread/thread/cfd4181d56c05a7a&amp;cd=US&amp;hl=en">liknande</a> i åtanke.</p>
+
+<p>Jean-Baptiste satte också igång en hel del rykten när han under tiden som diskussionerna om Cyanogen gick som hårdast twittrade följande:</p>
+
+<blockquote><p>To my Apple, Microsoft and Palm buddies: are you hiring to work on mobile stuff?</p></blockquote>
+
+<p>…</p>
+
+<p>Big change in conditions make me reconsider my employment options.</p>
+
+<p>Personligen så hoppas jag att Google omprövar sin inställning till utvecklingscommunityt och öppnar upp för användandet av alla deras androidkomponenter, i det långa loppet tror jag dom vinner mer på detta. De tillverkare som köper licenserna av Google har också ett intresse av att se android växa så stort och populärt som möjligt och här finns verkligen chansen att skapa en levande och kreativ mobilplattform.</p>
+
+<p>Jag stödjer givetvis helhjärtat alla satsningar på att ersätta samtlig proprietär kod men helst av allt så vill jag förstås kunna använda senaste versionen av Google sync på min moddade androidlur med rent samvete.</p>
+
+<p><em>Stöd CyanogenMod genom android-applikationen <a href="http://www.cyrket.com/package/com.mhuang.savecyanogenmod">Save CyanogenMod Petition</a>, en <a href="http://twibbon.com/cause/cyanogen">Twibbon</a> till din Twitter eller bäst av allt genom att <a href="http://www.cyanogenmod.com/">donera en slant</a> till Cyanogen själv.</em></p>
+
+<p><em>Se också <a href="http://www.swedroid.se/google-uppror-forbjuder-cyanogen-att-fortsatta-utveckling-av-rom-fil">Swedroid</a>, <a href="http://forum.xda-developers.com/showthread.php?t=564623">XDA-Developers</a>, <a href="http://androidandme.com/2009/09/news/google-responds-to-cyanogenmod-controversy/">Android and Me.</a> och <a href="http://www.eweek.com/c/a/Linux-and-Open-Source/Google-Irks-Android-Developers-with-Cyanogen-Move-837741/?kc=rss">eWeek.</a></em></p>
+]]></content>
+  </entry>
+  
+</feed>
