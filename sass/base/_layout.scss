@@ -7,7 +7,7 @@ $max-width: 800px;
 body{
     font-family: 'Amethysta', serif;
 	font-weight: 300;
-	font-size: 18px;
+	font-size: 20px;
 	background: url('/images/retina_dust.png');
 	color: #444;
 	colori: $color-gray01;
@@ -15,7 +15,7 @@ body{
 		margin: 0 20px;
 	}
 	@media screen and (max-width: 600px){
-		font-size: 13px;
+		font-size: 15px;
 	}
 }
 
