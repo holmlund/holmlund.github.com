@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Recension | David Holmlund]]></title>
   <link href="http://holmlund.github.com/kategorier/recension/atom.xml" rel="self"/>
   <link href="http://holmlund.github.com/"/>
-  <updated>2013-02-11T08:11:36+01:00</updated>
+  <updated>2013-02-11T08:29:28+01:00</updated>
   <id>http://holmlund.github.com/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>Jag har länge sett fram emot en bok som behandlar Drupal ur ett JavaScript/JQuery-perspektiv och har nu fått möjligheten att skriva en kort recension på Drupal 6 JavaScript and jQuery av Matt Butcher.</p>
 
 <p>Boken öppnar med en beskrivning av Drupals arkitektur samt de där till kopplade språken PHP, SQL, HTML, CSS, XML och JavaScript. Som många andra drupalböcker så går den också kort igenom uppbyggnaden av noder, teman, moduler, användare, block samt olika utvecklingsverktyg som kan vara bra att ha.</p>
+
+<!-- more -->
+
 
 <p>I kapitel två börjar det roliga och vi får lära oss hur vi kan arbeta med javascript i Drupal. I kapitel tre så är fokus helt på JQuery-biblioteket och dess olika användningsområden. Boken går sedan igenom drupal.js biblioteket för att sedan ta sig an översättningar och tema-funktioner.</p>
 
@@ -44,6 +47,9 @@
 <p>Till en av mina absoluta favoriter i det formatet hör den amerikanska tidningen Wired som framför allt behandlar teknologi och dess påverkan på kultur, ekonomi och politik.</p>
 
 <p>Min första kontakt med Wired kom genom artiklar som spreds via olika <a href="http://en.wikipedia.org/wiki/Bulletin_board_system">Bulletin Board Systems (BBS)</a> och <a href="http://en.wikipedia.org/wiki/Fidonet">FidoNet</a>. Det här måste ha varit någon gång precis efter tidningsstarten 1993 och kort innan internet och world wide web skulle sätta sista spiken i kistan på de gamla BBS’erna. Tidningen blev snabbt mytomspunnen och kultförklarad för sin hacker- och cyberpunkframtoning, vilket givetvis hade stor påverkan på mig som ung tonåring. Det skulle dock ta ytterligare några år innan jag för första gången fick läsa en Wired i tidningsform, tidningsutbudet i norrländska småstäder var tyvärr inte alltför utvecklat på tiden som det begav sig.</p>
+
+<!-- more -->
+
 
 <p>Idag är jag dock en frekvent läsare av både den amerikanska och den brittiska utgåvan och kan inte annat än rekommendera den för alla som vill ha intelligent och spännande läsning kryddat med skön <a href="http://www.wired.co.uk/wired-magazine/archive/2009/05/start/warren-ellis.aspx">humor</a>.</p>
 

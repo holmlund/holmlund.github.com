@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Utveckling | David Holmlund]]></title>
   <link href="http://holmlund.github.com/kategorier/utveckling/atom.xml" rel="self"/>
   <link href="http://holmlund.github.com/"/>
-  <updated>2013-02-11T08:11:36+01:00</updated>
+  <updated>2013-02-11T08:29:28+01:00</updated>
   <id>http://holmlund.github.com/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
@@ -45,6 +45,9 @@ inte är densamma som beskrivs nedan.
     <content type="html"><![CDATA[<p>Jag har länge sett fram emot en bok som behandlar Drupal ur ett JavaScript/JQuery-perspektiv och har nu fått möjligheten att skriva en kort recension på Drupal 6 JavaScript and jQuery av Matt Butcher.</p>
 
 <p>Boken öppnar med en beskrivning av Drupals arkitektur samt de där till kopplade språken PHP, SQL, HTML, CSS, XML och JavaScript. Som många andra drupalböcker så går den också kort igenom uppbyggnaden av noder, teman, moduler, användare, block samt olika utvecklingsverktyg som kan vara bra att ha.</p>
+
+<!-- more -->
+
 
 <p>I kapitel två börjar det roliga och vi får lära oss hur vi kan arbeta med javascript i Drupal. I kapitel tre så är fokus helt på JQuery-biblioteket och dess olika användningsområden. Boken går sedan igenom drupal.js biblioteket för att sedan ta sig an översättningar och tema-funktioner.</p>
 

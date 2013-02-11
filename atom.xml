@@ -4,7 +4,7 @@
   <title><![CDATA[David Holmlund]]></title>
   <link href="http://holmlund.github.com/atom.xml" rel="self"/>
   <link href="http://holmlund.github.com/"/>
-  <updated>2013-02-11T08:11:36+01:00</updated>
+  <updated>2013-02-11T08:29:28+01:00</updated>
   <id>http://holmlund.github.com/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
@@ -128,6 +128,9 @@
 
 <p>Boken öppnar med en beskrivning av Drupals arkitektur samt de där till kopplade språken PHP, SQL, HTML, CSS, XML och JavaScript. Som många andra drupalböcker så går den också kort igenom uppbyggnaden av noder, teman, moduler, användare, block samt olika utvecklingsverktyg som kan vara bra att ha.</p>
 
+<!-- more -->
+
+
 <p>I kapitel två börjar det roliga och vi får lära oss hur vi kan arbeta med javascript i Drupal. I kapitel tre så är fokus helt på JQuery-biblioteket och dess olika användningsområden. Boken går sedan igenom drupal.js biblioteket för att sedan ta sig an översättningar och tema-funktioner.</p>
 
 <p>Kapitel sju är helt vigt till AJAX och i kapitel åtta och nio får vi införliva javascript i en modul samt gräva lite djupare i mer avancerade funktioner och integrationer. De sista två projekten i boken är en autocomplete-funktion för sökrutan samt en accordion-meny, både dessa är riktigt intressanta och väl värda att kika på.</p>
@@ -150,6 +153,9 @@
 <p>Det första klippet är på dryga 2 minuter och det andra på åtta, jag rekommenderar att du tar dig tid till att se båda.</p>
 
 <p>Än så länge befinner sig Google Wave i en begränsad testversion och är endast öppet för inbjudningar. Jag sitter dock på ett antal Google Wave invites som jag tänkte dela ut till intresserade läsare. Skriv en kommentar nedan om dina tankar kring Google Wave så kommer jag skicka ut invites så långt som lagret räcker. Först till kvarn gäller och glöm inte att ta med er emailadress (ni kan också maila den till mig om ni inte vill lägga ut den i kommentaren).</p>
+
+<!-- more -->
+
 
 <p>Korta, tramsiga och meningslösa kommentarer kommer att diskvalificeras.</p>
 
@@ -236,6 +242,9 @@ source too..</p>
 
 <p>I augusti-numret av den brittiska utgåvan av <a href="http://www.davidholmlund.se/blogg/wired-teknologi-kultur">Wired</a> så finns ett väldigt intressant reportage om Google. David Rowan som är chefsredaktör på Wired UK erbjuds en relativt frikostig inblick i det annars så hemlighetsfulla företaget och träffar bland annat Eric Schmidt, Sergey Brin, Larry Page och Vic Gundotra.</p>
 
+<!-- more -->
+
+
 <p>Rowan skriver så här i sin ledare:</p>
 
 <blockquote><p>What I discovered was eye-opening. This is a business like no other: driven by innovation and unlimited ambition, its people seem to regard all the world’s great problems as mere engineering challenges that smart thinking will inevitably solve. That has a downside, of course – not least critics’ accusations that it’s a privacy-sapping monopoly out to destroy everything from newspapers to TV stations.</p></blockquote>
@@ -261,6 +270,9 @@ source too..</p>
 
 <p>Min första kontakt med Wired kom genom artiklar som spreds via olika <a href="http://en.wikipedia.org/wiki/Bulletin_board_system">Bulletin Board Systems (BBS)</a> och <a href="http://en.wikipedia.org/wiki/Fidonet">FidoNet</a>. Det här måste ha varit någon gång precis efter tidningsstarten 1993 och kort innan internet och world wide web skulle sätta sista spiken i kistan på de gamla BBS’erna. Tidningen blev snabbt mytomspunnen och kultförklarad för sin hacker- och cyberpunkframtoning, vilket givetvis hade stor påverkan på mig som ung tonåring. Det skulle dock ta ytterligare några år innan jag för första gången fick läsa en Wired i tidningsform, tidningsutbudet i norrländska småstäder var tyvärr inte alltför utvecklat på tiden som det begav sig.</p>
 
+<!-- more -->
+
+
 <p>Idag är jag dock en frekvent läsare av både den amerikanska och den brittiska utgåvan och kan inte annat än rekommendera den för alla som vill ha intelligent och spännande läsning kryddat med skön <a href="http://www.wired.co.uk/wired-magazine/archive/2009/05/start/warren-ellis.aspx">humor</a>.</p>
 
 <p>Personligen läser jag den helst i pappersform, men tidningen går såklart även att hitta online:</p>
@@ -282,6 +294,9 @@ source too..</p>
 
 <p>Det hela kom ganska så kort efter att Apple <a href="http://www.techcrunch.com/2009/07/27/apple-is-growing-rotten-to-the-core-and-its-likely-atts-fault/">nekat Google Voice på appstore</a> och har nog mycket att göra med den konkurrerande situation som uppstår i och med Googles satsning på bland annat <a href="http://www.android.com/about/">Android</a> och det framtida <a href="http://en.wikipedia.org/wiki/Chrome_os">Chrome OS</a>.</p>
 
+<!-- more -->
+
+
 <p>Personligen hoppas jag att det här kan leda till att Google fortsätter på sitt open source-spår, satsar helhjärtat Android samt att dom snarast bakar in mjukvarustöd för multi touch precis som <a href="http://groups.google.com/group/android-developers/browse_thread/thread/aa009932dcbe7d9d/0f2c5cd313d9cd34?pli=1">HTC har gjort</a>. Rykterna går att Apple bad Google att inte lägga in mjukvarustöd för multi touch, läs mer om detta <a href="http://digital.venturebeat.com/2009/02/09/apple-asked-google-not-to-use-multi-touch-in-android-and-google-complied/">här</a>.</p>
 ]]></content>
   </entry>
@@ -296,6 +311,9 @@ source too..</p>
 <p><a href="http://www.drupalcamp.se/">Drupalcamp Stockholm</a> blev som väntat en riktig succé! Jag missade tyvärr fredagens program men kunde istället vara med på lördagens som var mer fokuserade på drupalutveckling och bjöd på några riktigt intressanta föreläsningar samt denna <a href="http://buytaert.net/druplicon-human">filur</a>. Överlag så höll allting väldigt hög klass och jag ser verkligen fram emot nästa drupalcamp!</p>
 
 <p>På söndagen var det dags för <a href="http://groups.drupal.org/node/20608">dokumentationssprint</a> där vi tillsammans med <a href="http://www.lullabot.com/about/addison-berry">Addison Berry</a> samlades ett gäng för att umgås och bidra till Drupals community. Stort tack till alla som var med samt till <a href="http://nodeone.se/">NodeOne</a> som lånade ut sina fina lokaler i gamla stan för ändamålet.</p>
+
+<!-- more -->
+
 
 <p>Jag hade också turen att vinna ett exemplar av <a href="http://frontenddrupal.com/">Front End Drupal</a> som <a href="http://kkaefer.com/">Konstantin Käfer</a> generöst lottade ut, recension kommer inom kort!</p>
 
