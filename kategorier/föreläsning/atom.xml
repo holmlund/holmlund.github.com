@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: föreläsning | David Holmlund]]></title>
+  <title><![CDATA[Category: Föreläsning | David Holmlund]]></title>
   <link href="http://holmlund.github.com/kategorier/föreläsning/atom.xml" rel="self"/>
   <link href="http://holmlund.github.com/"/>
-  <updated>2013-02-11T21:47:44+01:00</updated>
+  <updated>2013-02-11T22:48:53+01:00</updated>
   <id>http://holmlund.github.com/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Paneldebatt Drupalcamp Stockholm]]></title>
+    <link href="http://holmlund.github.com/2011/11/20/paneldebatt-drupalcamp-stockholm/"/>
+    <updated>2011-11-20T15:41:00+01:00</updated>
+    <id>http://holmlund.github.com/2011/11/20/paneldebatt-drupalcamp-stockholm</id>
+    <content type="html"><![CDATA[<p>Den 12 november var det dags för en ny omgång av Drupalcamp Stockholm och den här gången var det helt och hållet organiserat av det svenska drupalcommunityt.</p>
+
+<p>Nu har det kommit upp videos från <a href="http://fall2011.drupalcamp.se/">Drupalcamp</a> där jag hade äran att få sitta med i <a href="http://fall2011.drupalcamp.se/sessions/paneldebatt">expertpanelen</a> tillsammans med Martin Edenström, Helena Nordenfelt och Tomas Persson.</p>
+
+<p>Videon kan ni se <a href="http://vimeo.com/32204550">här.</a></p>
+
+<p><img src="http://lh3.googleusercontent.com/-bbmZKlhmtkw/URZfokomc2I/AAAAAAAAF_o/f6oXyzknhvc/w800/paneldebatt-e1350037182807.jpg"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Från inspiration till nyskapande]]></title>
