@@ -16,7 +16,10 @@ tags:
 
 
 
-[box type="info"]Uppmärksamma läsare har kanske upptäckt att nuvarande installation inte är densamma som beskrivs nedan.[/box]
+```
+Uppmärksamma läsare har kanske upptäckt att nuvarande installation 
+inte är densamma som beskrivs nedan.
+```
 
 Bloggen är nu uppdaterad till en responsiv design, vilket innebär att den automatiskt anpassar innehållet efter fönsterstorlek. Förutom detta så har jag också lekt runt lite med transitions och animationer i CSS 3.
 
@@ -30,4 +33,4 @@ Hör gärna av er i kommenteringsfältet nedan ifall ni har några funderingar e
 
 Det bör också tilläggas att hela denna sajt är något av en lekstuga och hopkoket av effekter bör absolut tas med en nypa salt. =)
 
-[wooslider slider_type="attachments" limit="2"]
+

@@ -11,11 +11,13 @@ post_format:
 - Notering
 tags:
 - Ubuntu
+published: false
 ---
 
 
-
-[box type="alert"]Denna guide är numera förlegad och ni kan hitta Chromium i Ubuntus repository alternativt ladda ner chrome från google.com/chrome.[/box]
+```
+Denna guide är numera förlegad och ni kan hitta Chromium i Ubuntus repository alternativt ladda ner chrome från google.com/chrome.[/box]
+```
 
 Chromium finns numera i Ubuntus repositories alternativt så kan ni installera riktiga chrome från [http://www.google.com/chrome](http://www.google.com/chrome)
 
