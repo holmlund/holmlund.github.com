@@ -5,8 +5,10 @@ layout: post
 slug: android-developer-lab-gratis-telefoner
 title: Android Developer Lab & gratis telefoner
 description: "Sitter och skriver det här på tåget hem från Android Developer Lab Stockholm. Det har varit en riktigt intressant kväll och jag åker hem med en sprillans ny Nexus One i ryggsäcken."
-categories: Android, Google
-cover: http://picasaweb.google.com/lh/photo/DynDfHuTuwC3GTdN2_VSztMTjNZETYmyPJy0liipFm0?feat=directlink
+categories: 
+- Android
+- Google
+cover: "http://picasaweb.google.com/lh/photo/DynDfHuTuwC3GTdN2_VSztMTjNZETYmyPJy0liipFm0?feat=directlink"
 published: true
 alias: /blogg/android-developer-lab-gratis-telefoner
 ---

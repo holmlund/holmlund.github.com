@@ -4,8 +4,10 @@ title: "Från inspiration till nyskapande"
 date: 2011-04-29 14:43
 comments: true
 description: "Helgen den 11-12 mars så hade jag förmånen att få föreläsa om android på EIS by Semcons interna konferens – Från inspiration till nyskapande."
-categories: Android, föreläsning
-cover: http://picasaweb.google.com/lh/photo/uhCT0kwJfN8Mso4DEEvButMTjNZETYmyPJy0liipFm0?feat=directlink
+categories: 
+- Android
+- Föreläsning
+cover: "http://picasaweb.google.com/lh/photo/uhCT0kwJfN8Mso4DEEvButMTjNZETYmyPJy0liipFm0?feat=directlink"
 published: true
 alias: /blogg/fran-inspiration-till-nyskapande
 ---
