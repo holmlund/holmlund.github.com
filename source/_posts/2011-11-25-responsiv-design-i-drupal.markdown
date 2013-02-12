@@ -14,9 +14,6 @@ tags:
 - Responsiv
 alias: /blogg/responsiv-design-i-drupal
 ---
-
-
-
 ```
 Uppmärksamma läsare har kanske upptäckt att nuvarande installation 
 inte är densamma som beskrivs nedan.

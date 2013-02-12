@@ -23,11 +23,40 @@
       <div class="date">Publicerad: {% include post/date.html %}{{ time }}</div>
       <div class="tags">Taggar: {% include post/categories.html %}</div>
     </div>	
-	{{ content }}</div>
-   
+		{{ content }}
+	</div>
+    <p class="clearfix"></p>
+	 {% if site.related_posts.size >= 1 %}
+	 <div class="entry-content">
+   <div class="relaterat">
+  <h2>Relaterade inlägg</h2>
+  <ul>
+  {% for post in site.related_posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</div></div>
+<div class="relaterat-bottom"></div>
+ {% endif %}
+<!--
+/* {% if site.gravatar_email %}
+
+	<span>
+		<div class="gravatar"><img src="{% gravatar_image %}" title="Gravatar of {{ site.author}} " /></div>
+		<div class="about"><strong>{{site.author}}</strong> 
+      (<a href="http://twitter.com/{{site.twitter_user}}">@{{ site.twitter_user }}</a>)
+    </p>
+    <p>{{site.description}}</p>
+</div>
+</span>
+{% endif %} -->
+
+
 {% endif %}
 <div class="meta">
-	{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
-		<span class="comments"><a href="{{ root_url }}{{ post.url }}{{ page.url }}#disqus_thread">Kommentarer</a></span>
-	{% endif %}
+	
+
+{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
+<span class="comments"><a href="{{ root_url }}{{ post.url }}{{ page.url }}#disqus_thread">Kommentarer</a></span>
+{% endif %}
 </div>

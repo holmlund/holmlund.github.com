@@ -8,6 +8,9 @@ description: "Sitter och skriver det här på tåget hem från Android Developer
 categories: 
 - Android
 - Google
+tags: 
+- Android
+- Google
 cover: "http://picasaweb.google.com/lh/photo/DynDfHuTuwC3GTdN2_VSztMTjNZETYmyPJy0liipFm0?feat=directlink"
 published: true
 alias: /blogg/android-developer-lab-gratis-telefoner

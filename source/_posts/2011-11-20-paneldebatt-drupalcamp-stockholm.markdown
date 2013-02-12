@@ -6,6 +6,10 @@ comments: true
 categories: 
 - Drupal
 - Föreläsning
+tags: 
+- Drupal
+- Föreläsning
+- Drupalcamp
 description: "Den 12 november var det dags för en ny omgång av Drupalcamp Stockholm och den här gången var det helt och hållet organiserat av det svenska drupalcommunityt."
 cover: "http://lh3.googleusercontent.com/-bbmZKlhmtkw/URZfokomc2I/AAAAAAAAF_o/f6oXyzknhvc/w800/paneldebatt-e1350037182807.jpg"
 alias: /blogg/paneldebatt-drupalcamp-stockholm

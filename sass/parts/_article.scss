@@ -46,12 +46,14 @@ article{
 			margin-top: 16px;
 			padding-left: 30px;
 			position: relative;
+			font-family: 'Arvo', sans-serif;
 			&:before{
 				content: "\f061";
 				font: 1.3em $font-icon;
 				line-height: 1.6em;
 				position: absolute;
 				left: 0;
+				top: -3px;
 			}
 		}
 		p, blockquote, ul, ol, dl, table, iframe, h1, h2, h3, h4, h5, h6, .video-container{
@@ -176,3 +178,16 @@ article{
 	padding: 15px 0;
 	@include border-shadow();
 }
+
+.relaterat {
+  border-top: 10px solid #ff6600;
+  margin:60px 0 15px;
+  padding-top:10px;
+  line-height:1.5em !important;
+}
+.relaterat h2, h2:before {border-bottom:0px !important;}
+.relaterat-bottom {border-top:10px solid #cccc00;}
+.relaterat ul li {list-style:none !important;}
+
+/*.about {float:right;width:85%;}
+.gravatar {float:left;width:15%;}*/

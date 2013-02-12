@@ -7,6 +7,9 @@ description: "Helgen den 11-12 mars så hade jag förmånen att få föreläsa o
 categories: 
 - Android
 - Föreläsning
+tags: 
+- Android
+- Föreläsning
 cover: "http://picasaweb.google.com/lh/photo/uhCT0kwJfN8Mso4DEEvButMTjNZETYmyPJy0liipFm0?feat=directlink"
 published: true
 alias: /blogg/fran-inspiration-till-nyskapande

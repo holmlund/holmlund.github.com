@@ -8,8 +8,6 @@ wordpress_id: 38
 categories:
 - Recension
 - Utveckling
-post_format:
-- Notering
 tags:
 - Bok
 - Drupal

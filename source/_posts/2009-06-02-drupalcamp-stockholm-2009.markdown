@@ -5,6 +5,9 @@ layout: post
 title: Drupalcamp Stockholm 2009
 wordpress_id: 46
 categories: Drupal
+tags: 
+- Drupal
+- Drupalcamp
 description: "Kort rapport från Drupalcamp Stockholm 2009."
 cover: http://lh5.googleusercontent.com/-zWHYe0OMgT8/URbJtguID6I/AAAAAAAAF_8/xIjJydezSNU/w800/drupalcamp.jpg
 published: true
