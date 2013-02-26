@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Föreläsning | David Holmlund]]></title>
-  <link href="http://holmlund.github.com/kategorier/föreläsning/atom.xml" rel="self"/>
-  <link href="http://holmlund.github.com/"/>
-  <updated>2013-02-26T22:54:28+01:00</updated>
-  <id>http://holmlund.github.com/</id>
+  <link href="http://davidholmlund.se/kategorier/föreläsning/atom.xml" rel="self"/>
+  <link href="http://davidholmlund.se/"/>
+  <updated>2013-02-26T23:02:18+01:00</updated>
+  <id>http://davidholmlund.se/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Paneldebatt Drupalcamp Stockholm]]></title>
-    <link href="http://holmlund.github.com/2011/11/20/paneldebatt-drupalcamp-stockholm/"/>
+    <link href="http://davidholmlund.se/2011/11/20/paneldebatt-drupalcamp-stockholm/"/>
     <updated>2011-11-20T15:41:00+01:00</updated>
-    <id>http://holmlund.github.com/2011/11/20/paneldebatt-drupalcamp-stockholm</id>
+    <id>http://davidholmlund.se/2011/11/20/paneldebatt-drupalcamp-stockholm</id>
     <content type="html"><![CDATA[<p>Den 12 november var det dags för en ny omgång av Drupalcamp Stockholm och den här gången var det helt och hållet organiserat av det svenska drupalcommunityt.</p>
 
 <p>Nu har det kommit upp videos från <a href="http://fall2011.drupalcamp.se/">Drupalcamp</a> där jag hade äran att få sitta med i <a href="http://fall2011.drupalcamp.se/sessions/paneldebatt">expertpanelen</a> tillsammans med Martin Edenström, Helena Nordenfelt och Tomas Persson.</p>
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Från inspiration till nyskapande]]></title>
-    <link href="http://holmlund.github.com/2011/04/29/fran-inspiration-till-nyskapande/"/>
+    <link href="http://davidholmlund.se/2011/04/29/fran-inspiration-till-nyskapande/"/>
     <updated>2011-04-29T14:43:00+02:00</updated>
-    <id>http://holmlund.github.com/2011/04/29/fran-inspiration-till-nyskapande</id>
+    <id>http://davidholmlund.se/2011/04/29/fran-inspiration-till-nyskapande</id>
     <content type="html"><![CDATA[<p>Helgen den 11-12 mars så hade jag förmånen att få föreläsa om android på EIS by Semcons interna konferens – Från inspiration till nyskapande.</p>
 
 <p>Tillsammans med rutinerade föreläsare som Håkan Lans, Christer Bengtsson och Wille Crafoord så hade jag mycket att leva upp till och det skulle visa sig bli två riktigt intressanta dagar. Håkan Lans höll en föredragsdiskussion om sin karriär och stannade sedan långt in på kvällen för att diskutera sina erfarenheter med nyfikna ingenjörer. Christer Bengtsson berättade om Swedsoft som är ett initiativ för att stärka svensk konkurrenskraft inom mjukvara och Wille Crafoord avslutade med en inspirerande föreäsning samt musik till kaffet.</p>

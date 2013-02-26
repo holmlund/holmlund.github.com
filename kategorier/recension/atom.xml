@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Recension | David Holmlund]]></title>
-  <link href="http://holmlund.github.com/kategorier/recension/atom.xml" rel="self"/>
-  <link href="http://holmlund.github.com/"/>
-  <updated>2013-02-26T22:54:28+01:00</updated>
-  <id>http://holmlund.github.com/</id>
+  <link href="http://davidholmlund.se/kategorier/recension/atom.xml" rel="self"/>
+  <link href="http://davidholmlund.se/"/>
+  <updated>2013-02-26T23:02:18+01:00</updated>
+  <id>http://davidholmlund.se/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Drupal 6 JavaScript and jQuery]]></title>
-    <link href="http://holmlund.github.com/2009/12/01/drupal-6-javascript-and-jquery/"/>
+    <link href="http://davidholmlund.se/2009/12/01/drupal-6-javascript-and-jquery/"/>
     <updated>2009-12-01T02:32:00+01:00</updated>
-    <id>http://holmlund.github.com/2009/12/01/drupal-6-javascript-and-jquery</id>
+    <id>http://davidholmlund.se/2009/12/01/drupal-6-javascript-and-jquery</id>
     <content type="html"><![CDATA[<p>Jag har länge sett fram emot en bok som behandlar Drupal ur ett JavaScript/JQuery-perspektiv och har nu fått möjligheten att skriva en kort recension på Drupal 6 JavaScript and jQuery av Matt Butcher.</p>
 
 <p>Boken öppnar med en beskrivning av Drupals arkitektur samt de där till kopplade språken PHP, SQL, HTML, CSS, XML och JavaScript. Som många andra drupalböcker så går den också kort igenom uppbyggnaden av noder, teman, moduler, användare, block samt olika utvecklingsverktyg som kan vara bra att ha.</p>
@@ -39,9 +39,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wired, teknologi & kultur!]]></title>
-    <link href="http://holmlund.github.com/2009/08/04/wired-teknologi-kultur/"/>
+    <link href="http://davidholmlund.se/2009/08/04/wired-teknologi-kultur/"/>
     <updated>2009-08-04T19:18:00+02:00</updated>
-    <id>http://holmlund.github.com/2009/08/04/wired-teknologi-kultur</id>
+    <id>http://davidholmlund.se/2009/08/04/wired-teknologi-kultur</id>
     <content type="html"><![CDATA[<p>Bloggar, tweets och RSS-flöden till trots så finns det stunder då jag hellre vill sätta mig ned med en gammal hederlig papperstidning.</p>
 
 <p>Till en av mina absoluta favoriter i det formatet hör den amerikanska tidningen Wired som framför allt behandlar teknologi och dess påverkan på kultur, ekonomi och politik.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Google | David Holmlund]]></title>
-  <link href="http://holmlund.github.com/kategorier/google/atom.xml" rel="self"/>
-  <link href="http://holmlund.github.com/"/>
-  <updated>2013-02-26T22:54:28+01:00</updated>
-  <id>http://holmlund.github.com/</id>
+  <link href="http://davidholmlund.se/kategorier/google/atom.xml" rel="self"/>
+  <link href="http://davidholmlund.se/"/>
+  <updated>2013-02-26T23:02:18+01:00</updated>
+  <id>http://davidholmlund.se/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Android Developer Lab & gratis telefoner]]></title>
-    <link href="http://holmlund.github.com/2010/02/04/android-developer-lab-gratis-telefoner/"/>
+    <link href="http://davidholmlund.se/2010/02/04/android-developer-lab-gratis-telefoner/"/>
     <updated>2010-02-04T23:55:55+01:00</updated>
-    <id>http://holmlund.github.com/2010/02/04/android-developer-lab-gratis-telefoner</id>
+    <id>http://davidholmlund.se/2010/02/04/android-developer-lab-gratis-telefoner</id>
     <content type="html"><![CDATA[<p>Sitter och skriver det här på tåget hem från Android Developer Lab Stockholm. Det har varit en riktigt intressant kväll och jag åker hem med en sprillans ny Nexus One i ryggsäcken.</p>
 
 <p>Jupp! Det är nästan för bra för att vara sant, Google delade ut gratis telefoner till alla utvecklare som var på plats och gav mottot “Don’t be evil” en konkret innebörd.</p>
