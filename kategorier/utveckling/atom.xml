@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Utveckling | David Holmlund]]></title>
-  <link href="http://davidholmlund.se/kategorier/utveckling/atom.xml" rel="self"/>
-  <link href="http://davidholmlund.se/"/>
-  <updated>2013-02-26T23:02:18+01:00</updated>
-  <id>http://davidholmlund.se/</id>
+  <link href="http://www.davidholmlund.se/kategorier/utveckling/atom.xml" rel="self"/>
+  <link href="http://www.davidholmlund.se/"/>
+  <updated>2013-02-26T23:08:57+01:00</updated>
+  <id>http://www.davidholmlund.se/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Responsiv design i Drupal]]></title>
-    <link href="http://davidholmlund.se/2011/11/25/responsiv-design-i-drupal/"/>
+    <link href="http://www.davidholmlund.se/2011/11/25/responsiv-design-i-drupal/"/>
     <updated>2011-11-25T19:58:22+01:00</updated>
-    <id>http://davidholmlund.se/2011/11/25/responsiv-design-i-drupal</id>
+    <id>http://www.davidholmlund.se/2011/11/25/responsiv-design-i-drupal</id>
     <content type="html"><![CDATA[<p><code>
 Uppmärksamma läsare har kanske upptäckt att nuvarande installation
 inte är densamma som beskrivs nedan.
@@ -39,9 +39,9 @@ inte är densamma som beskrivs nedan.
   
   <entry>
     <title type="html"><![CDATA[Drupal 6 JavaScript and jQuery]]></title>
-    <link href="http://davidholmlund.se/2009/12/01/drupal-6-javascript-and-jquery/"/>
+    <link href="http://www.davidholmlund.se/2009/12/01/drupal-6-javascript-and-jquery/"/>
     <updated>2009-12-01T02:32:00+01:00</updated>
-    <id>http://davidholmlund.se/2009/12/01/drupal-6-javascript-and-jquery</id>
+    <id>http://www.davidholmlund.se/2009/12/01/drupal-6-javascript-and-jquery</id>
     <content type="html"><![CDATA[<p>Jag har länge sett fram emot en bok som behandlar Drupal ur ett JavaScript/JQuery-perspektiv och har nu fått möjligheten att skriva en kort recension på Drupal 6 JavaScript and jQuery av Matt Butcher.</p>
 
 <p>Boken öppnar med en beskrivning av Drupals arkitektur samt de där till kopplade språken PHP, SQL, HTML, CSS, XML och JavaScript. Som många andra drupalböcker så går den också kort igenom uppbyggnaden av noder, teman, moduler, användare, block samt olika utvecklingsverktyg som kan vara bra att ha.</p>
@@ -63,9 +63,9 @@ inte är densamma som beskrivs nedan.
   
   <entry>
     <title type="html"><![CDATA[Inleder samarbete med Stormfors]]></title>
-    <link href="http://davidholmlund.se/2009/10/15/inleder-samarbete-med-stormfors/"/>
+    <link href="http://www.davidholmlund.se/2009/10/15/inleder-samarbete-med-stormfors/"/>
     <updated>2009-10-15T21:50:00+02:00</updated>
-    <id>http://davidholmlund.se/2009/10/15/inleder-samarbete-med-stormfors</id>
+    <id>http://www.davidholmlund.se/2009/10/15/inleder-samarbete-med-stormfors</id>
     <content type="html"><![CDATA[<p>Nu är det klart att jag kommer inleda ett samarbete med webbyrån Stormfors, där jag kommer att fungera som konsult.</p>
 
 <p><a href="http://www.stormfors.se/">Stormfors</a> är en webbyrå baserad i Stockholm som specialiserar sig på open source CMS, ändamålsenlig design och sociala nätverk.</p>
@@ -76,9 +76,9 @@ inte är densamma som beskrivs nedan.
   
   <entry>
     <title type="html"><![CDATA[CyanogenMod, Google & Androids öppenhet?]]></title>
-    <link href="http://davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet/"/>
+    <link href="http://www.davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet/"/>
     <updated>2009-09-26T21:16:00+02:00</updated>
-    <id>http://davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet</id>
+    <id>http://www.davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet</id>
     <content type="html"><![CDATA[<p>Ett cease &amp; desist till skaparen av den populära androidmodifikationen CyanogenMod har skapat rabalder i communityt.</p>
 
 <p>Det har nu gått några dagar sedan Google skickade ett <a href="http://en.wikipedia.org/wiki/Cease_and_desist">cease &amp; desist</a> till utvecklaren av <a href="http://www.cyanogenmod.com/">CyanogenMOD</a>, vilket är en mycket populär ROM för <a href="http://www.android.com/">Android</a> som förutom ett stort antal optimeringar och förbättringar som exempelvis <em>multi touch</em> och <a href="http://ck.kolivas.org/patches/bfs/bfs-faq.txt">BFS</a> var en av de första som byggde på nya <a href="http://developer.android.com/sdk/android-1.6-highlights.html">Android 1.6 Donut</a>.</p>

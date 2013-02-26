@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[David Holmlund]]></title>
-  <link href="http://davidholmlund.se/atom.xml" rel="self"/>
-  <link href="http://davidholmlund.se/"/>
-  <updated>2013-02-26T23:02:18+01:00</updated>
-  <id>http://davidholmlund.se/</id>
+  <link href="http://www.davidholmlund.se/atom.xml" rel="self"/>
+  <link href="http://www.davidholmlund.se/"/>
+  <updated>2013-02-26T23:08:57+01:00</updated>
+  <id>http://www.davidholmlund.se/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Drupalcon Munich 2012]]></title>
-    <link href="http://davidholmlund.se/2012/10/10/Drupalcon-Munich/"/>
+    <link href="http://www.davidholmlund.se/2012/10/10/Drupalcon-Munich/"/>
     <updated>2012-10-10T12:22:00+02:00</updated>
-    <id>http://davidholmlund.se/2012/10/10/Drupalcon-Munich</id>
+    <id>http://www.davidholmlund.se/2012/10/10/Drupalcon-Munich</id>
     <content type="html"><![CDATA[<p>Den 20-24 augusti var det dags för den årliga drupalkonferensen Drupalcon, denna gång i öltäta München.</p>
 
 <p>Vi var tre personer från <a href="http://www.stormfors.se">Stormfors</a> som åkte ner och tillsammans med andra svenska drupalister från bland annat <a href="http://www.happiness.se">Happiness</a> så passade vi på att mingla och byta erfarenheter med den internationella drupalgemenskapen.</p>
@@ -35,9 +35,9 @@
   
   <entry>
     <title type="html"><![CDATA[Responsiv design i Drupal]]></title>
-    <link href="http://davidholmlund.se/2011/11/25/responsiv-design-i-drupal/"/>
+    <link href="http://www.davidholmlund.se/2011/11/25/responsiv-design-i-drupal/"/>
     <updated>2011-11-25T19:58:22+01:00</updated>
-    <id>http://davidholmlund.se/2011/11/25/responsiv-design-i-drupal</id>
+    <id>http://www.davidholmlund.se/2011/11/25/responsiv-design-i-drupal</id>
     <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>Uppmärksamma läsare har kanske upptäckt att nuvarande installation 
@@ -60,9 +60,9 @@
   
   <entry>
     <title type="html"><![CDATA[Paneldebatt Drupalcamp Stockholm]]></title>
-    <link href="http://davidholmlund.se/2011/11/20/paneldebatt-drupalcamp-stockholm/"/>
+    <link href="http://www.davidholmlund.se/2011/11/20/paneldebatt-drupalcamp-stockholm/"/>
     <updated>2011-11-20T15:41:00+01:00</updated>
-    <id>http://davidholmlund.se/2011/11/20/paneldebatt-drupalcamp-stockholm</id>
+    <id>http://www.davidholmlund.se/2011/11/20/paneldebatt-drupalcamp-stockholm</id>
     <content type="html"><![CDATA[<p>Den 12 november var det dags för en ny omgång av Drupalcamp Stockholm och den här gången var det helt och hållet organiserat av det svenska drupalcommunityt.</p>
 
 <p>Nu har det kommit upp videos från <a href="http://fall2011.drupalcamp.se/">Drupalcamp</a> där jag hade äran att få sitta med i <a href="http://fall2011.drupalcamp.se/sessions/paneldebatt">expertpanelen</a> tillsammans med Martin Edenström, Helena Nordenfelt och Tomas Persson.</p>
@@ -75,9 +75,9 @@
   
   <entry>
     <title type="html"><![CDATA[Från inspiration till nyskapande]]></title>
-    <link href="http://davidholmlund.se/2011/04/29/fran-inspiration-till-nyskapande/"/>
+    <link href="http://www.davidholmlund.se/2011/04/29/fran-inspiration-till-nyskapande/"/>
     <updated>2011-04-29T14:43:00+02:00</updated>
-    <id>http://davidholmlund.se/2011/04/29/fran-inspiration-till-nyskapande</id>
+    <id>http://www.davidholmlund.se/2011/04/29/fran-inspiration-till-nyskapande</id>
     <content type="html"><![CDATA[<p>Helgen den 11-12 mars så hade jag förmånen att få föreläsa om android på EIS by Semcons interna konferens – Från inspiration till nyskapande.</p>
 
 <p>Tillsammans med rutinerade föreläsare som Håkan Lans, Christer Bengtsson och Wille Crafoord så hade jag mycket att leva upp till och det skulle visa sig bli två riktigt intressanta dagar. Håkan Lans höll en föredragsdiskussion om sin karriär och stannade sedan långt in på kvällen för att diskutera sina erfarenheter med nyfikna ingenjörer. Christer Bengtsson berättade om Swedsoft som är ett initiativ för att stärka svensk konkurrenskraft inom mjukvara och Wille Crafoord avslutade med en inspirerande föreäsning samt musik till kaffet.</p>
@@ -99,9 +99,9 @@
   
   <entry>
     <title type="html"><![CDATA[Android Developer Lab & gratis telefoner]]></title>
-    <link href="http://davidholmlund.se/2010/02/04/android-developer-lab-gratis-telefoner/"/>
+    <link href="http://www.davidholmlund.se/2010/02/04/android-developer-lab-gratis-telefoner/"/>
     <updated>2010-02-04T23:55:55+01:00</updated>
-    <id>http://davidholmlund.se/2010/02/04/android-developer-lab-gratis-telefoner</id>
+    <id>http://www.davidholmlund.se/2010/02/04/android-developer-lab-gratis-telefoner</id>
     <content type="html"><![CDATA[<p>Sitter och skriver det här på tåget hem från Android Developer Lab Stockholm. Det har varit en riktigt intressant kväll och jag åker hem med en sprillans ny Nexus One i ryggsäcken.</p>
 
 <p>Jupp! Det är nästan för bra för att vara sant, Google delade ut gratis telefoner till alla utvecklare som var på plats och gav mottot “Don’t be evil” en konkret innebörd.</p>
@@ -121,9 +121,9 @@
   
   <entry>
     <title type="html"><![CDATA[Drupal 6 JavaScript and jQuery]]></title>
-    <link href="http://davidholmlund.se/2009/12/01/drupal-6-javascript-and-jquery/"/>
+    <link href="http://www.davidholmlund.se/2009/12/01/drupal-6-javascript-and-jquery/"/>
     <updated>2009-12-01T02:32:00+01:00</updated>
-    <id>http://davidholmlund.se/2009/12/01/drupal-6-javascript-and-jquery</id>
+    <id>http://www.davidholmlund.se/2009/12/01/drupal-6-javascript-and-jquery</id>
     <content type="html"><![CDATA[<p>Jag har länge sett fram emot en bok som behandlar Drupal ur ett JavaScript/JQuery-perspektiv och har nu fått möjligheten att skriva en kort recension på Drupal 6 JavaScript and jQuery av Matt Butcher.</p>
 
 <p>Boken öppnar med en beskrivning av Drupals arkitektur samt de där till kopplade språken PHP, SQL, HTML, CSS, XML och JavaScript. Som många andra drupalböcker så går den också kort igenom uppbyggnaden av noder, teman, moduler, användare, block samt olika utvecklingsverktyg som kan vara bra att ha.</p>
@@ -145,9 +145,9 @@
   
   <entry>
     <title type="html"><![CDATA[Vill du ha en Google Wave invite?]]></title>
-    <link href="http://davidholmlund.se/2009/11/14/vill-du-ha-en-google-wave-invite/"/>
+    <link href="http://www.davidholmlund.se/2009/11/14/vill-du-ha-en-google-wave-invite/"/>
     <updated>2009-11-14T13:34:00+01:00</updated>
-    <id>http://davidholmlund.se/2009/11/14/vill-du-ha-en-google-wave-invite</id>
+    <id>http://www.davidholmlund.se/2009/11/14/vill-du-ha-en-google-wave-invite</id>
     <content type="html"><![CDATA[<p>Istället för att göra ett taffligt försök att i text förklara vad Google Wave handlar om så tänkte jag istället länka till två videoklipp.</p>
 
 <p>Det första klippet är på dryga 2 minuter och det andra på åtta, jag rekommenderar att du tar dig tid till att se båda.</p>
@@ -168,9 +168,9 @@
   
   <entry>
     <title type="html"><![CDATA[Inleder samarbete med Stormfors]]></title>
-    <link href="http://davidholmlund.se/2009/10/15/inleder-samarbete-med-stormfors/"/>
+    <link href="http://www.davidholmlund.se/2009/10/15/inleder-samarbete-med-stormfors/"/>
     <updated>2009-10-15T21:50:00+02:00</updated>
-    <id>http://davidholmlund.se/2009/10/15/inleder-samarbete-med-stormfors</id>
+    <id>http://www.davidholmlund.se/2009/10/15/inleder-samarbete-med-stormfors</id>
     <content type="html"><![CDATA[<p>Nu är det klart att jag kommer inleda ett samarbete med webbyrån Stormfors, där jag kommer att fungera som konsult.</p>
 
 <p><a href="http://www.stormfors.se/">Stormfors</a> är en webbyrå baserad i Stockholm som specialiserar sig på open source CMS, ändamålsenlig design och sociala nätverk.</p>
@@ -181,9 +181,9 @@
   
   <entry>
     <title type="html"><![CDATA[CyanogenMod, Google & Androids öppenhet?]]></title>
-    <link href="http://davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet/"/>
+    <link href="http://www.davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet/"/>
     <updated>2009-09-26T21:16:00+02:00</updated>
-    <id>http://davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet</id>
+    <id>http://www.davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet</id>
     <content type="html"><![CDATA[<p>Ett cease &amp; desist till skaparen av den populära androidmodifikationen CyanogenMod har skapat rabalder i communityt.</p>
 
 <p>Det har nu gått några dagar sedan Google skickade ett <a href="http://en.wikipedia.org/wiki/Cease_and_desist">cease &amp; desist</a> till utvecklaren av <a href="http://www.cyanogenmod.com/">CyanogenMOD</a>, vilket är en mycket populär ROM för <a href="http://www.android.com/">Android</a> som förutom ett stort antal optimeringar och förbättringar som exempelvis <em>multi touch</em> och <a href="http://ck.kolivas.org/patches/bfs/bfs-faq.txt">BFS</a> var en av de första som byggde på nya <a href="http://developer.android.com/sdk/android-1.6-highlights.html">Android 1.6 Donut</a>.</p>
@@ -235,9 +235,9 @@ source too..</p>
   
   <entry>
     <title type="html"><![CDATA[Inside Google]]></title>
-    <link href="http://davidholmlund.se/2009/08/05/inside-google/"/>
+    <link href="http://www.davidholmlund.se/2009/08/05/inside-google/"/>
     <updated>2009-08-05T14:37:00+02:00</updated>
-    <id>http://davidholmlund.se/2009/08/05/inside-google</id>
+    <id>http://www.davidholmlund.se/2009/08/05/inside-google</id>
     <content type="html"><![CDATA[<p>Intressant Googlereportage i senaste utgåvan av Wired.</p>
 
 <p>I augusti-numret av den brittiska utgåvan av <a href="http://www.davidholmlund.se/blogg/wired-teknologi-kultur">Wired</a> så finns ett väldigt intressant reportage om Google. David Rowan som är chefsredaktör på Wired UK erbjuds en relativt frikostig inblick i det annars så hemlighetsfulla företaget och träffar bland annat Eric Schmidt, Sergey Brin, Larry Page och Vic Gundotra.</p>
@@ -261,9 +261,9 @@ source too..</p>
   
   <entry>
     <title type="html"><![CDATA[Wired, teknologi & kultur!]]></title>
-    <link href="http://davidholmlund.se/2009/08/04/wired-teknologi-kultur/"/>
+    <link href="http://www.davidholmlund.se/2009/08/04/wired-teknologi-kultur/"/>
     <updated>2009-08-04T19:18:00+02:00</updated>
-    <id>http://davidholmlund.se/2009/08/04/wired-teknologi-kultur</id>
+    <id>http://www.davidholmlund.se/2009/08/04/wired-teknologi-kultur</id>
     <content type="html"><![CDATA[<p>Bloggar, tweets och RSS-flöden till trots så finns det stunder då jag hellre vill sätta mig ned med en gammal hederlig papperstidning.</p>
 
 <p>Till en av mina absoluta favoriter i det formatet hör den amerikanska tidningen Wired som framför allt behandlar teknologi och dess påverkan på kultur, ekonomi och politik.</p>
@@ -285,9 +285,9 @@ source too..</p>
   
   <entry>
     <title type="html"><![CDATA[Eric Schmidt lämnar Apples styrelse]]></title>
-    <link href="http://davidholmlund.se/2009/08/03/eric-schmidt-lamnar-apples-styrelse/"/>
+    <link href="http://www.davidholmlund.se/2009/08/03/eric-schmidt-lamnar-apples-styrelse/"/>
     <updated>2009-08-03T21:01:00+02:00</updated>
-    <id>http://davidholmlund.se/2009/08/03/eric-schmidt-lamnar-apples-styrelse</id>
+    <id>http://www.davidholmlund.se/2009/08/03/eric-schmidt-lamnar-apples-styrelse</id>
     <content type="html"><![CDATA[<p>Eric Schmidt som är CEO på Google har idag lämnat sin plats i Apples styrelse.</p>
 
 <p>Mer finns att läsa på <a href="http://www.techcrunch.com/2009/08/03/google-ceo-eric-schmidt-resigns-from-apple-board-surprised/">techcrunch</a> och <a href="http://www.engadget.com/2009/08/03/googles-eric-schmidt-resigns-from-apple-board-over-conflict-of/">engadget</a>.</p>
@@ -303,9 +303,9 @@ source too..</p>
   
   <entry>
     <title type="html"><![CDATA[Drupalcamp Stockholm 2009]]></title>
-    <link href="http://davidholmlund.se/2009/06/02/drupalcamp-stockholm-2009/"/>
+    <link href="http://www.davidholmlund.se/2009/06/02/drupalcamp-stockholm-2009/"/>
     <updated>2009-06-02T20:05:00+02:00</updated>
-    <id>http://davidholmlund.se/2009/06/02/drupalcamp-stockholm-2009</id>
+    <id>http://www.davidholmlund.se/2009/06/02/drupalcamp-stockholm-2009</id>
     <content type="html"><![CDATA[<p>Kort rapport från Drupalcamp Stockholm 2009.</p>
 
 <p><a href="http://www.drupalcamp.se/">Drupalcamp Stockholm</a> blev som väntat en riktig succé! Jag missade tyvärr fredagens program men kunde istället vara med på lördagens som var mer fokuserade på drupalutveckling och bjöd på några riktigt intressanta föreläsningar samt denna <a href="http://buytaert.net/druplicon-human">filur</a>. Överlag så höll allting väldigt hög klass och jag ser verkligen fram emot nästa drupalcamp!</p>
