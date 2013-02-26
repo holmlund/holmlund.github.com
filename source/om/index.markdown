@@ -13,3 +13,4 @@ Jag har byggt system och nätverk sedan 80-talets Bulletin Board Systems och har
 Är född och uppvuxen i Skellefteå men bor numera i Uppsala tillsammans med min sambo Kirsten och våra underbara barn Ludwig & Emmy.
 
 {% img http://lh4.googleusercontent.com/-U4_OxJqidvI/UQ14bEAqPeI/AAAAAAAAFuk/KBYs6QK07R8/w800/familjen.jpg %}
+
