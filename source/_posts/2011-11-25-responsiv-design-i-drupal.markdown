@@ -14,10 +14,10 @@ tags:
 - Responsiv
 alias: /blogg/responsiv-design-i-drupal
 ---
-```
-Uppmärksamma läsare har kanske upptäckt att nuvarande installation 
-inte är densamma som beskrivs nedan.
-```
+
+    Uppmärksamma läsare har kanske upptäckt att nuvarande installation 
+    inte är densamma som beskrivs nedan.
+
 
 Bloggen är nu uppdaterad till en responsiv design, vilket innebär att den automatiskt anpassar innehållet efter fönsterstorlek. Förutom detta så har jag också lekt runt lite med transitions och animationer i CSS 3.
 
