@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Drupal | David Holmlund]]></title>
-  <link href="http://www.davidholmlund.se/kategorier/drupal/atom.xml" rel="self"/>
-  <link href="http://www.davidholmlund.se/"/>
-  <updated>2013-02-26T23:08:57+01:00</updated>
-  <id>http://www.davidholmlund.se/</id>
+  <link href="http://davidholmlund.se/kategorier/drupal/atom.xml" rel="self"/>
+  <link href="http://davidholmlund.se/"/>
+  <updated>2013-02-27T08:41:59+01:00</updated>
+  <id>http://davidholmlund.se/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Drupalcon Munich 2012]]></title>
-    <link href="http://www.davidholmlund.se/2012/10/10/Drupalcon-Munich/"/>
+    <link href="http://davidholmlund.se/2012/10/10/Drupalcon-Munich/"/>
     <updated>2012-10-10T12:22:00+02:00</updated>
-    <id>http://www.davidholmlund.se/2012/10/10/Drupalcon-Munich</id>
+    <id>http://davidholmlund.se/2012/10/10/Drupalcon-Munich</id>
     <content type="html"><![CDATA[<p>Den 20-24 augusti var det dags för den årliga drupalkonferensen Drupalcon, denna gång i öltäta München.</p>
 
 <p>Vi var tre personer från <a href="http://www.stormfors.se">Stormfors</a> som åkte ner och tillsammans med andra svenska drupalister från bland annat <a href="http://www.happiness.se">Happiness</a> så passade vi på att mingla och byta erfarenheter med den internationella drupalgemenskapen.</p>
@@ -34,9 +34,9 @@
   
   <entry>
     <title type="html"><![CDATA[Paneldebatt Drupalcamp Stockholm]]></title>
-    <link href="http://www.davidholmlund.se/2011/11/20/paneldebatt-drupalcamp-stockholm/"/>
+    <link href="http://davidholmlund.se/2011/11/20/paneldebatt-drupalcamp-stockholm/"/>
     <updated>2011-11-20T15:41:00+01:00</updated>
-    <id>http://www.davidholmlund.se/2011/11/20/paneldebatt-drupalcamp-stockholm</id>
+    <id>http://davidholmlund.se/2011/11/20/paneldebatt-drupalcamp-stockholm</id>
     <content type="html"><![CDATA[<p>Den 12 november var det dags för en ny omgång av Drupalcamp Stockholm och den här gången var det helt och hållet organiserat av det svenska drupalcommunityt.</p>
 
 <p>Nu har det kommit upp videos från <a href="http://fall2011.drupalcamp.se/">Drupalcamp</a> där jag hade äran att få sitta med i <a href="http://fall2011.drupalcamp.se/sessions/paneldebatt">expertpanelen</a> tillsammans med Martin Edenström, Helena Nordenfelt och Tomas Persson.</p>
@@ -49,9 +49,9 @@
   
   <entry>
     <title type="html"><![CDATA[Drupalcamp Stockholm 2009]]></title>
-    <link href="http://www.davidholmlund.se/2009/06/02/drupalcamp-stockholm-2009/"/>
+    <link href="http://davidholmlund.se/2009/06/02/drupalcamp-stockholm-2009/"/>
     <updated>2009-06-02T20:05:00+02:00</updated>
-    <id>http://www.davidholmlund.se/2009/06/02/drupalcamp-stockholm-2009</id>
+    <id>http://davidholmlund.se/2009/06/02/drupalcamp-stockholm-2009</id>
     <content type="html"><![CDATA[<p>Kort rapport från Drupalcamp Stockholm 2009.</p>
 
 <p><a href="http://www.drupalcamp.se/">Drupalcamp Stockholm</a> blev som väntat en riktig succé! Jag missade tyvärr fredagens program men kunde istället vara med på lördagens som var mer fokuserade på drupalutveckling och bjöd på några riktigt intressanta föreläsningar samt denna <a href="http://buytaert.net/druplicon-human">filur</a>. Överlag så höll allting väldigt hög klass och jag ser verkligen fram emot nästa drupalcamp!</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Teknik | David Holmlund]]></title>
-  <link href="http://www.davidholmlund.se/kategorier/teknik/atom.xml" rel="self"/>
-  <link href="http://www.davidholmlund.se/"/>
-  <updated>2013-02-26T23:08:57+01:00</updated>
-  <id>http://www.davidholmlund.se/</id>
+  <link href="http://davidholmlund.se/kategorier/teknik/atom.xml" rel="self"/>
+  <link href="http://davidholmlund.se/"/>
+  <updated>2013-02-27T08:41:59+01:00</updated>
+  <id>http://davidholmlund.se/</id>
   <author>
     <name><![CDATA[David Holmlund]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Vill du ha en Google Wave invite?]]></title>
-    <link href="http://www.davidholmlund.se/2009/11/14/vill-du-ha-en-google-wave-invite/"/>
+    <link href="http://davidholmlund.se/2009/11/14/vill-du-ha-en-google-wave-invite/"/>
     <updated>2009-11-14T13:34:00+01:00</updated>
-    <id>http://www.davidholmlund.se/2009/11/14/vill-du-ha-en-google-wave-invite</id>
+    <id>http://davidholmlund.se/2009/11/14/vill-du-ha-en-google-wave-invite</id>
     <content type="html"><![CDATA[<p>Istället för att göra ett taffligt försök att i text förklara vad Google Wave handlar om så tänkte jag istället länka till två videoklipp.</p>
 
 <p>Det första klippet är på dryga 2 minuter och det andra på åtta, jag rekommenderar att du tar dig tid till att se båda.</p>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[CyanogenMod, Google & Androids öppenhet?]]></title>
-    <link href="http://www.davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet/"/>
+    <link href="http://davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet/"/>
     <updated>2009-09-26T21:16:00+02:00</updated>
-    <id>http://www.davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet</id>
+    <id>http://davidholmlund.se/2009/09/26/cyanogenmod-google-androids-oppenhet</id>
     <content type="html"><![CDATA[<p>Ett cease &amp; desist till skaparen av den populära androidmodifikationen CyanogenMod har skapat rabalder i communityt.</p>
 
 <p>Det har nu gått några dagar sedan Google skickade ett <a href="http://en.wikipedia.org/wiki/Cease_and_desist">cease &amp; desist</a> till utvecklaren av <a href="http://www.cyanogenmod.com/">CyanogenMOD</a>, vilket är en mycket populär ROM för <a href="http://www.android.com/">Android</a> som förutom ett stort antal optimeringar och förbättringar som exempelvis <em>multi touch</em> och <a href="http://ck.kolivas.org/patches/bfs/bfs-faq.txt">BFS</a> var en av de första som byggde på nya <a href="http://developer.android.com/sdk/android-1.6-highlights.html">Android 1.6 Donut</a>.</p>
@@ -92,9 +92,9 @@ source too..</p>
   
   <entry>
     <title type="html"><![CDATA[Inside Google]]></title>
-    <link href="http://www.davidholmlund.se/2009/08/05/inside-google/"/>
+    <link href="http://davidholmlund.se/2009/08/05/inside-google/"/>
     <updated>2009-08-05T14:37:00+02:00</updated>
-    <id>http://www.davidholmlund.se/2009/08/05/inside-google</id>
+    <id>http://davidholmlund.se/2009/08/05/inside-google</id>
     <content type="html"><![CDATA[<p>Intressant Googlereportage i senaste utgåvan av Wired.</p>
 
 <p>I augusti-numret av den brittiska utgåvan av <a href="http://www.davidholmlund.se/blogg/wired-teknologi-kultur">Wired</a> så finns ett väldigt intressant reportage om Google. David Rowan som är chefsredaktör på Wired UK erbjuds en relativt frikostig inblick i det annars så hemlighetsfulla företaget och träffar bland annat Eric Schmidt, Sergey Brin, Larry Page och Vic Gundotra.</p>
@@ -118,9 +118,9 @@ source too..</p>
   
   <entry>
     <title type="html"><![CDATA[Wired, teknologi & kultur!]]></title>
-    <link href="http://www.davidholmlund.se/2009/08/04/wired-teknologi-kultur/"/>
+    <link href="http://davidholmlund.se/2009/08/04/wired-teknologi-kultur/"/>
     <updated>2009-08-04T19:18:00+02:00</updated>
-    <id>http://www.davidholmlund.se/2009/08/04/wired-teknologi-kultur</id>
+    <id>http://davidholmlund.se/2009/08/04/wired-teknologi-kultur</id>
     <content type="html"><![CDATA[<p>Bloggar, tweets och RSS-flöden till trots så finns det stunder då jag hellre vill sätta mig ned med en gammal hederlig papperstidning.</p>
 
 <p>Till en av mina absoluta favoriter i det formatet hör den amerikanska tidningen Wired som framför allt behandlar teknologi och dess påverkan på kultur, ekonomi och politik.</p>
@@ -142,9 +142,9 @@ source too..</p>
   
   <entry>
     <title type="html"><![CDATA[Eric Schmidt lämnar Apples styrelse]]></title>
-    <link href="http://www.davidholmlund.se/2009/08/03/eric-schmidt-lamnar-apples-styrelse/"/>
+    <link href="http://davidholmlund.se/2009/08/03/eric-schmidt-lamnar-apples-styrelse/"/>
     <updated>2009-08-03T21:01:00+02:00</updated>
-    <id>http://www.davidholmlund.se/2009/08/03/eric-schmidt-lamnar-apples-styrelse</id>
+    <id>http://davidholmlund.se/2009/08/03/eric-schmidt-lamnar-apples-styrelse</id>
     <content type="html"><![CDATA[<p>Eric Schmidt som är CEO på Google har idag lämnat sin plats i Apples styrelse.</p>
 
 <p>Mer finns att läsa på <a href="http://www.techcrunch.com/2009/08/03/google-ceo-eric-schmidt-resigns-from-apple-board-surprised/">techcrunch</a> och <a href="http://www.engadget.com/2009/08/03/googles-eric-schmidt-resigns-from-apple-board-over-conflict-of/">engadget</a>.</p>
