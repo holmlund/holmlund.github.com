@@ -10,7 +10,7 @@ tags:
 - jekyll
 description: "Den 20-24 augusti var det dags för den årliga drupalkonferensen Drupalcon, denna gång i öltäta München."
 cover:
-published: true
+published: false
 ---
 Jag byter förmodligen plattform oftare än jag skriver inlägg och nu är jag tillbaka där det startade med helt statiska sidor.
 

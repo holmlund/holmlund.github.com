@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://holmlund.github.com
+url: http://davidholmlund.se
 title: David Holmlund
 subtitle: "Webbutveckling, Linux och framtidens teknik"
 author: David Holmlund
@@ -45,6 +45,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 description: "Du har hittat till David Holmlund, framtidsvisionär specialiserad på öppen källkod och med ett brinnande intresse för Linux, HTML5, Javascript och responsiv design."
 cover: 
+tapir_token: 512db7a13f61b012470000cc
 
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
